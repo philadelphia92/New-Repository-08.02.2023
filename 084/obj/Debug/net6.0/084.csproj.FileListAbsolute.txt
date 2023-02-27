@@ -1,0 +1,15 @@
+C:\Users\Игорь Александрович\Desktop\CS\084\bin\Debug\net6.0\084.exe
+C:\Users\Игорь Александрович\Desktop\CS\084\bin\Debug\net6.0\084.deps.json
+C:\Users\Игорь Александрович\Desktop\CS\084\bin\Debug\net6.0\084.runtimeconfig.json
+C:\Users\Игорь Александрович\Desktop\CS\084\bin\Debug\net6.0\084.dll
+C:\Users\Игорь Александрович\Desktop\CS\084\bin\Debug\net6.0\084.pdb
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.csproj.AssemblyReference.cache
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.AssemblyInfoInputs.cache
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.AssemblyInfo.cs
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.csproj.CoreCompileInputs.cache
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.dll
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\refint\084.dll
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.pdb
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\084.genruntimeconfig.cache
+C:\Users\Игорь Александрович\Desktop\CS\084\obj\Debug\net6.0\ref\084.dll
